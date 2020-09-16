@@ -4,6 +4,7 @@
 using namespace std;
 
 // Kurt Hamiter - 9-16-2020
+// Assignment: Generate 500 random numbers, and sort based on value. Output should use aterisks to show the value of each array container
 
 int main()
 {
