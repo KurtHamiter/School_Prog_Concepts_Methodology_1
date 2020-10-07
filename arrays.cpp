@@ -140,6 +140,7 @@ void unionArrayOne() {
 	}
 
 	cout << "\n";
+	// Professor said no need to check for duplicates, so I stopped checking for duplicates after this
 
 }
 
